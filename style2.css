@@ -1,0 +1,142 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.xiaoyan-jin {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 122px;
+  top: 38px;
+  width: 270px;
+  height: 130px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 484px;
+  position: absolute;
+  left: 1145px;
+  top: 29px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.about2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-3 {
+  width: 1439px;
+  height: 358px;
+  position: absolute;
+  left: calc(50% - 674px);
+  bottom: 443px;
+}
+.budt-748-industry-practicum {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  width: 1308px;
+}
+.budt-748-is-the-capstone-course-for-ms-information-system-is-majors-where-students-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients-through-a-complete-is-development-process-students-design-and-implement-functional-prototypes-that-solve-practical-business-challenges-preparing-them-for-careers-in-technology-and-consulting {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 653.5px);
+  top: 137px;
+  width: 1053px;
+  height: 171px;
+}
+.professor-paul-t-shapiro {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 392px;
+  top: 581px;
+  width: 276px;
+  height: 47px;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 392px;
+  top: 666px;
+  width: 855px;
+  height: 55px;
+}
+.semester-details-fall-2025 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 390px;
+  top: 759px;
+  width: 682px;
+  height: 108px;
+}
+.frame-2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 263px);
+  top: 867px;
+}
+.xiaoyan-jin-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
